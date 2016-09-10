@@ -1,2 +1,2 @@
-# algorithm_design_homeworks
-Homeworks for Designs and Analysis of Algorithm Course
+Homework Solutions for Design and Analysis of Algorithms Course
+===========
